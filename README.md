@@ -1,0 +1,2 @@
+# cnn_captcha_keras
+在keras上实现的cnn神经卷积网络的验证码识别
